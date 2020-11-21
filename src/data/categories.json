@@ -1,0 +1,26 @@
+{
+    "physics": {
+        "name": "Physics",
+        "id": "physics",
+        "subcategories": {
+
+            "elecMag": {
+                "name": "Electricity and Magnetism",
+                "id": "elecMag",
+                "equations": {
+                    "gaussesLaw": {
+                        "name": "Gausses Law",
+                        "id": "gaussesLaw",
+                        "file": "gaussesLaw.md"
+                    },
+                    "ohmsLaw": {
+                        "name": "Ohm's Law",
+                        "id": "ohmsLaw",
+                        "file": "ohmsLaw.md"
+                    }
+                } 
+            }
+        
+        }
+    }
+}
